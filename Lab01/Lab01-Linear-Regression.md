@@ -235,13 +235,15 @@ $$
 
 ---
 **Jawab:**   
-Koefisien model Intercept: 28.0222 Slope: 1.6667
+Koefisien model Intercept: 28.0222 Slope: 1.6667  
+
 | Waktu (menit) | Actual | Predicted | Abs error
 |---:|---:|---:|---:|
 | 1.5 | 30.6 | 30.52 | 0.08
 | 3.5 | 33.9 | 33.86 | 0.04
 | 5.5 | 37.4 | 37.16 | 0.21
 | 7.5 | 40.5 | 40.52 | 0.02  
+
 MAE test: 0.0889 C  
 Nilai "MAE test: 0.0889 C" memiliki arti bahwa secara rata-rata, hasil prediksi suhu dari model regresi Anda meleset atau berselisih sebesar 0,0889 derajat Celcius dari suhu aktual mesin.
 
